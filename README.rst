@@ -1,3 +1,8 @@
+💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎
+
+the project is obsolete, just use the recent version of **Requests**, with built-in socks support
+
+💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎
 
 Requesocks is the fork of github.com/foxx/requests == python-requests *working with socks proxy* (i.e tor).
 Just renamed the package to allow simultaneously use of original requests and socks-capable-requests.
